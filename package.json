@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@trpc/server": "11.0.0-rc.544"
+    "@trpc/server": "11.0.0-rc.566"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",

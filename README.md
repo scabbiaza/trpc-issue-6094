@@ -1,4 +1,4 @@
-### trpc v11.0.0-rc.544
+### trpc v11.0.0-rc.566
 
 1. Run server via `tsx`
 ```
